@@ -8,7 +8,7 @@ PRODUCT_SHIPPING_API_LEVEL := 31
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
 # Boot control hal for A/B
-PRODUCT_PACKAGES += android.hardware.boot@1.1-impl-qti.recovery
+PRODUCT_PACKAGES += android.hardware.boot@1.1-impl-qti-sm6225.recovery
 
 # Blacklist
 PRODUCT_SYSTEM_PROPERTY_BLACKLIST += ro.bootimage.build.date.utc ro.build.date.utc
