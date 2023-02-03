@@ -1,8 +1,8 @@
 Unofficial Common TWRP Device Tree for Motorola Snapdragon 680 devices
 
-- G32 devon
-- G42 hawao
-- G52 rhode
+- [G32 devon](https://github.com/HemanthJabalpuri/twrp_motorola_devon)
+- [G42 hawao](https://github.com/HemanthJabalpuri/twrp_motorola_hawao)
+- [G52 rhode](https://github.com/HemanthJabalpuri/twrp_motorola_rhode)
 
 All above devices launched with Android 12 and upgradeable to Android 13
 
