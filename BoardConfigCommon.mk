@@ -62,7 +62,7 @@ TW_EXTRA_LANGUAGES := true
 TW_BRIGHTNESS_PATH := /sys/class/backlight/panel0-backlight/brightness
 TW_DEFAULT_BRIGHTNESS := 1800
 
-# Fix can't able to wake with touch after sleep
+# Add support to wake with touch after sleep
 TW_NO_SCREEN_BLANK := true
 
 # Remove vibration support
